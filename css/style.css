@@ -1,3 +1,13 @@
 body {
   background: white;
 }
+header {
+  background: grey;
+}
+.content {
+  background: gold;
+  height: 100vh;
+}
+footer {
+  background: aquamarine;
+}
