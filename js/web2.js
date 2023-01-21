@@ -5,6 +5,8 @@ clickTo[1].addEventListener("click", function () {
   window.location.href = "/TetApp/minor.html";
 });
 
-clickTo[0].addEventListener("click", function () {
-  window.location.href = "/TetApp/adult.html";
-});
+// clickTo[0].addEventListener("click", function () {
+//   window.location.href = "/TetApp/adult.html";
+// });
+
+clickTo[0].style.display = "none";
